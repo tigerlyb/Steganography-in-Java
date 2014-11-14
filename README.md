@@ -1,7 +1,7 @@
 Steganography in Java
 =====================
 
-I implement the Steganography algorithm which embeds secret information into a “cover image”
+I implement a Steganography algorithm which embeds secret information into a “cover image”
 
 You can embed text information or a picture into a cover image.
 
